@@ -33,3 +33,17 @@ docker-compose up -d
 6. 选择 自由风格 项目
 
 ```
+
+
+## 插件home
+
+```
+oracle jdk
+# java version 1.8.161
+
+JAVA_HOME = /usr/lib/jvm/default-jvm
+Gradle
+# gradle version 4.5 or 3.2.1
+
+GRADLE_HOME = /opt/gradle
+```
